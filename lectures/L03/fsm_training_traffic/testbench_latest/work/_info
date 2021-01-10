@@ -1,0 +1,92 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_pro/17.1
+Efsm_training_traffic
+Z0 w1520971208
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dD:/repo_linards/rtr532-2018-smeiksts/lectures/L03/fsm_training_traffic/testbench_latest
+Z5 8D:/repo_linards/rtr532-2018-smeiksts/lectures/L03/fsm_training_traffic/fsm_training_traffic.vhd
+Z6 FD:/repo_linards/rtr532-2018-smeiksts/lectures/L03/fsm_training_traffic/fsm_training_traffic.vhd
+l0
+L22
+VB34jP7KSDalH9^W=`b^O=1
+!s100 BUbk[=JET16ET9[^54;lJ3
+Z7 OV;C;10.5c;63
+32
+Z8 !s110 1522406623
+!i10b 1
+Z9 !s108 1522406623.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/repo_linards/rtr532-2018-smeiksts/lectures/L03/fsm_training_traffic/fsm_training_traffic.vhd|
+Z11 !s107 D:/repo_linards/rtr532-2018-smeiksts/lectures/L03/fsm_training_traffic/fsm_training_traffic.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Abehavioral
+R1
+R2
+R3
+DEx4 work 20 fsm_training_traffic 0 22 B34jP7KSDalH9^W=`b^O=1
+l42
+L32
+V=7ZZ96lOUI3nn<DWG]>Dz3
+!s100 m5AedY5gzl:d[RDB^Jlm<1
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Efsm_training_traffic_tb
+R0
+R1
+R2
+R3
+R4
+Z14 8D:/repo_linards/rtr532-2018-smeiksts/lectures/L03/fsm_training_traffic/fsm_training_traffic_tb.vhd
+Z15 FD:/repo_linards/rtr532-2018-smeiksts/lectures/L03/fsm_training_traffic/fsm_training_traffic_tb.vhd
+l0
+L21
+VKBG]@`MOTdBa<?T9F4j_V1
+!s100 OV1l70UB^O_Ii_NfT;04?2
+R7
+32
+Z16 !s110 1522406622
+!i10b 1
+Z17 !s108 1522406622.000000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/repo_linards/rtr532-2018-smeiksts/lectures/L03/fsm_training_traffic/fsm_training_traffic_tb.vhd|
+Z19 !s107 D:/repo_linards/rtr532-2018-smeiksts/lectures/L03/fsm_training_traffic/fsm_training_traffic_tb.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R1
+R2
+R3
+DEx4 work 23 fsm_training_traffic_tb 0 22 KBG]@`MOTdBa<?T9F4j_V1
+l47
+L25
+VSHm>nmIa1d77nRKVn:[?53
+!s100 2NUOPze2ieVb^9f@8GgkE3
+R7
+32
+R16
+!i10b 1
+R17
+R18
+R19
+!i113 1
+R12
+R13

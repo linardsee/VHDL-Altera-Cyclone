@@ -1,0 +1,25 @@
+Step by step - creating testbench for module ENTITY_NAME (unit under test)
+
+1) Create new VHDL file (File - New - VHDL File) and save it in project directory with name "ENTITY_NAME_tb.vhd"
+
+2) Copy testbench template contents to the new file
+
+2) Fill the testbench template - replace the entity names where required, defining signals, generating clock, generating stimulus signals, etc.
+
+3) Tell Quartus which testbench file to run after Analysis and Synthesis
+3a) Select Assignments - Settings to open project settings.
+3b) Select radio button Compile Testbench in "Simulation" category, and click on button "Test Benches..." in NativeLink settings
+3c) Click on "New..." - a "New Test Bench Settings" window should open
+3d) Fill "Test bench name" and "Top level module in test bench" with  "ENTITY_NAME_tb" or the one you used in testbench file!
+3e) optional - select simulation period as desired
+3f) Select the testbench file by clicking "..." and choose the "ENTITY_NAME_tb.vhd" file, then click ADD
+3g) Click Ok, this will close "New Test Bench Settings" window.
+3h) Select the new test bench in the list and click Ok. You can add more than one test bench file for simulations, but the selected one will be called later.
+
+
+4) Run Analysis and Synthesis
+
+5) To start simulation, click Tools - Run Simulation Tool - RTL Simulation. ModelSim-Altera software should now open and automatically run the testbench selected in step 3).
+
+
+
